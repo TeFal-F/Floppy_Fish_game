@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logic
+  - Pipe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Pipe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background Bottom
+    uniqueID: 2641104571
+    locked: 0
+  - name: Background Midle
+    uniqueID: 3016035261
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Top
+    uniqueID: 3153951885
+    locked: 0
+  - name: Particles
+    uniqueID: 2763080225
+    locked: 0
+  - name: Pipes
+    uniqueID: 3890006649
+    locked: 0
+  - name: Player
+    uniqueID: 3169593069
+    locked: 0
